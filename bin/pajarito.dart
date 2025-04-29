@@ -2,4 +2,5 @@
 
 class Cliente{
   String? idcliente;
+  String? cif;
 }
